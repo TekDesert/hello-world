@@ -1,3 +1,3 @@
 # hello-world
-My first repository
-So this is me trying to learn a little bit about gitHub by following the tutorial
+I am editing the original file and emiting an new Pull request that ill hope will be accepted.
+
